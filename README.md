@@ -104,4 +104,7 @@ Analisar o desempenho financeiro de uma empresa é essencial para entender sua s
 
 As principais técnicas de análise da DRE são a Análise Horizontal (AH) e a Análise Vertical (AV), que permitem comparar resultados ao longo do tempo e avaliar a estrutura das demonstrações financeiras.
 
+ATENÇÃO: ISSO SE TRATA DE CONTEUDO EDUCATIVO, APENAS PARA USO DIDATICO!
+
 FONTE: https://blog.cefis.com.br/dre-2/
+
