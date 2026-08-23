@@ -103,3 +103,5 @@ Uso da DRE para análise de Desempenho
 Analisar o desempenho financeiro de uma empresa é essencial para entender sua saúde econômica e tomar decisões estratégicas.
 
 As principais técnicas de análise da DRE são a Análise Horizontal (AH) e a Análise Vertical (AV), que permitem comparar resultados ao longo do tempo e avaliar a estrutura das demonstrações financeiras.
+
+FONTE: https://blog.cefis.com.br/dre-2/
